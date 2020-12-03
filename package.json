@@ -1,0 +1,21 @@
+{
+  "name": "com.hedronvision.example",
+  "version": "0.0.1",
+  "displayName": "Example Package for Hedron Vision",
+  "description": "An example package bundling the Hedron Vision SDK.\nWith \u25B7 special characters \u25C1 too!",
+  "unity": "2018.1",
+  "unityRelease": "0b5",
+  "dependencies": {},
+  "keywords": [
+    "hedron",
+    "vision",
+    "vr",
+    "xr",
+    "3d"
+  ],
+  "author": {
+    "name": "Hedron Vision Incorporated",
+    "email": "contactus@hedronvision.com",
+    "url": "https://hedronvision.com"
+  }
+}
