@@ -14,4 +14,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - A documentation file (`Example.md`) that is found by the Unity Package Manager.
 - Initial `README` and `CHANGELOG` files to track project status.
 - Empty `LICENSE` file to remind me to eventually include an appropriate license.
-- A _very_ simple `.gitignore` to ignore `*.meta` files.
+- A _very_ simple `.gitignore` to explicitly reinclude all `*.meta` files.
