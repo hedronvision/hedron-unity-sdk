@@ -1,0 +1,14 @@
+{
+  "name": "HedronVision.Example.Editor.Tests",
+  "references": [
+    "HedronVision.Example.Editor",
+    "HedronVision.Example"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}

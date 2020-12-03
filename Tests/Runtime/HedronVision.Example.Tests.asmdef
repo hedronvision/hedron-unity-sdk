@@ -1,0 +1,11 @@
+{
+  "name": "HedronVision.Example.Tests",
+  "references": [
+    "HedronVision.Example"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": []
+}
