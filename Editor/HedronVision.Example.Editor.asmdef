@@ -1,0 +1,9 @@
+{
+  "name": "HedronVision.Example.Editor",
+  "references": [],
+  "optionalUnityReferences": [],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
